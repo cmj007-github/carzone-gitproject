@@ -464,6 +464,8 @@ $(function () {
     });
 });
 
+
+
 // mCustomScrollbar initialization
 (function ($) {
     $(window).resize(function () {
@@ -479,3 +481,4 @@ $(function () {
         }
     }).trigger("resize");
 })(jQuery);
+
